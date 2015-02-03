@@ -1,0 +1,39 @@
+制作一个网站的流程：
+1 设计首页（主页）
+2 html+css 页面布局
+3 添加动画特效（JavaScript，css3）
+4 后台语言实现网页的一些功能（PHP,JSP,.NET）
+5 发布网站（www.baidu.com 域名+空间）
+
+pc端开发web版本HTML XHTML1.1
+手机端的版本 HTML5
+
+万维网联盟 w3c  制定一些web开发标准
+
+调试工具：
+火狐浏览器 插件 firebug 2.0.7   按一下F12显示调试工具
+
+ 安装网址：
+HTML语法：
+标签：<html></html> 双标签
+      <br><img><hr>（分割线）单标签
+
+属性: <h1 size="1" align="center">标题一</h1>
+    size的范围1-7
+  标签和属性之间加一个空格，英文状态下的双引号
+
+注释：<!--解释说明-->
+
+      <!--停用代码-->
+
+
+<h1 align="center">标题一</h1>left(默认) right 
+
+
+行元素 （行内标签）：多个标签显示在一行，到头换行
+
+ b strong  i em u strike s del 
+块标签  ：特别的霸道，一个标签占一行
+  h1-h6
+
+
